@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>There is no box</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on There is no box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Jun 2019 16:09:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 06 Jun 2019 16:09:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>I am a self-taught web developer with experience in building functional and efficient applications. Also interested by cryptography, data privacy and economics.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Thu, 06 Jun 2019 16:09:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>Portfolio</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my blog</title>
+      <link>http://localhost:1313/blog/first/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>http://localhost:1313/blog/first/</guid>
+      <description>Welcome to my new blog</description>
+    </item>
+    
+  </channel>
+</rss>

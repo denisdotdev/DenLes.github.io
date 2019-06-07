@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on There is no box</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on There is no box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Jun 2019 16:09:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/tags/about/</link>
+      <pubDate>Thu, 06 Jun 2019 16:09:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portfolio</title>
+      <link>http://localhost:1313/tags/portfolio/</link>
+      <pubDate>Thu, 06 Jun 2019 16:09:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogging</title>
+      <link>http://localhost:1313/tags/blogging/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>http://localhost:1313/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
