@@ -13,11 +13,11 @@
     
     <item>
       <title>Welcome to my blog</title>
-      <link>https://denles.github.io/blog/first/</link>
+      <link>https://denles.github.io/blog/welcome-to-my-blog/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>https://denles.github.io/blog/first/</guid>
-      <description>Welcome to my new blog</description>
+      <guid>https://denles.github.io/blog/welcome-to-my-blog/</guid>
+      <description>Welcome to my new blog. This blog will be used to write about life, technology and Bitcoin. It is a medium to express myself on these subjects and hopefully offer something interesting to the Internets!</description>
     </item>
     
   </channel>
